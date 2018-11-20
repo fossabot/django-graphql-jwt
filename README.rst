@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fdjango-graphql-jwt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fdjango-graphql-jwt?ref=badge_shield)
+
 Django GraphQL JWT
 ==================
 
@@ -364,3 +366,7 @@ Credits and thanks.
 
 .. |Code Climate| image:: https://api.codeclimate.com/v1/badges/c79a185d546f7e34fdd6/maintainability
    :target: https://codeclimate.com/github/flavors/django-graphql-jwt
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdelikat%2Fdjango-graphql-jwt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdelikat%2Fdjango-graphql-jwt?ref=badge_large)
